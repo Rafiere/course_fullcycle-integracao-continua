@@ -4,8 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hi!")
-
 	fmt.Println(Soma(10, 10))
 }
 
